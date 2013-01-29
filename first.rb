@@ -1,6 +1,6 @@
 #test file
 def testmethod
-put "Hello World!"
+puts "Hello World!"
 end
 
 testmethod
